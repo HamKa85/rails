@@ -76,14 +76,13 @@ par une tout autre personne sur un projet.
 
 
 
-7. **Les relations entre les models des BDD**
+7.**Les relations entre les models des BDD**
 
 
 
 
 
-
-8. **Les fonctions du CRUD**
+8.**Les fonctions du CRUD**
 
 Un CRUD est un système de manipulation des données de la base : ça signifie Create, Read, Update, Delete
 
